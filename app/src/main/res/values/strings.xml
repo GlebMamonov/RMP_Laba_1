@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laba2</string>
+    <string name="out">Вывод</string>
+    <string name="name">Привет!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
